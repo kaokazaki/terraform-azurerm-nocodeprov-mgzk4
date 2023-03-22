@@ -1,5 +1,5 @@
 variable "resource_group_name" {
-  description = "mgzk4-nocode"
+  description = "Resource group name"
 }
 
 variable "azure_location" {
